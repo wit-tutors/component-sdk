@@ -1,0 +1,19 @@
+{
+  "name": "@component-sdk/application-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "@component-sdk/component-1": "^0.0.1",
+    "@component-sdk/component-2": "^0.0.1",
+    "@component-sdk/component-3": "^0.0.1"
+  }
+}

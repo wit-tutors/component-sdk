@@ -1,0 +1,19 @@
+{
+  "name": "@component-sdk/component-1",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Eamonn de Leastar (edeleastar@wit.ie)",
+  "homepage": "",
+  "license": "`MIT`",
+  "main": "lib/component-1.js",
+  "typings": "lib/component-1.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
